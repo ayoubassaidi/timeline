@@ -1,0 +1,29 @@
+.App {
+  min-height: 100vh;
+}
+
+.App-header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 2px solid #555;
+}
+
+.App-main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.posts-container {
+  margin-top: 20px;
+}
+
+.error {
+  color: red;
+  padding: 10px;
+  background-color: #fee;
+  border: 1px solid red;
+  border-radius: 4px;
+}
